@@ -7,7 +7,7 @@
 
 - Table of Contents
 	- [[public/Analysis/Analysis\|Analysis]]
-	- [[public/DBMS/DBMS\|DBMS]]
+	- [[public_250901/DBMS/DBMS\|DBMS]]
 	- [[public/Blog/Blog\|Blog]]
 	- [[public/Dev/Dev\|Dev]]
 	- [[public/Dev/Data/Data\|DATA]]
