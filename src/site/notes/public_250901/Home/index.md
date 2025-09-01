@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/public-250901/home/index/","tags":["gardenEntry"],"created":"2024-11-05T20:24:18.792+09:00","updated":"2025-09-01T14:50:05.574+09:00"}
+{"dg-publish":true,"permalink":"/public-250901/home/index/","tags":["gardenEntry"],"created":"2024-11-05T20:24:18.792+09:00","updated":"2025-09-01T14:52:44.165+09:00"}
 ---
 
 - 다음의 규칙으로 정리
 	- [[public/Obsidian/Obsidian_Prefix_Suffix\|Obsidian_Prefix_Suffix]]
 
 - Table of Contents
-	- [[public/Analysis/Analysis\|Analysis]]
+	- [[public_250901/Home/Analysis/Analysis\|Analysis]]
 	- [[public_250901/Home/DBMS/DBMS\|DBMS]]
 	- [[public/Blog/Blog\|Blog]]
 	- [[public/Dev/Dev\|Dev]]
@@ -35,7 +35,7 @@
 
 - What to do
 	- 프로그래밍 언어
-		- [[public/Analysis/Python\|public/Analysis/Python]]
+		- [[public_250901/Home/Analysis/Python\|public_250901/Home/Analysis/Python]]
 		- R
 		- Java
 		- Scala
@@ -43,12 +43,12 @@
 		- Golang
 		- 
 	- 기계학습 모델링 도구
-		- [[public/Analysis/Python\|public/Analysis/Python]]
+		- [[public_250901/Home/Analysis/Python\|public_250901/Home/Analysis/Python]]
 			- 딥러닝 프레임워크(Pytorch, TensorFlow)
 			- TensorFlow
 			- Keras
 			- PyTorch
-			- [[public/Analysis/scikit-learn\|scikit-learn]]
+			- [[public_250901/Home/Analysis/scikit-learn\|scikit-learn]]
 			- Spark ML
 	- 데이터 분석 패키지
 		- SAS
