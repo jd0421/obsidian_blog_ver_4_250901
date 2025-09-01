@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public-250901/home/index/","hide":"False","tags":["gardenEntry"],"created":"2024-11-05T20:24:18.792+09:00","updated":"2025-09-01T14:43:39.999+09:00"}
+{"dg-publish":true,"permalink":"/public-250901/home/index/","tags":["gardenEntry"],"created":"2024-11-05T20:24:18.792+09:00","updated":"2025-09-01T14:50:05.574+09:00"}
 ---
 
 - 다음의 규칙으로 정리
